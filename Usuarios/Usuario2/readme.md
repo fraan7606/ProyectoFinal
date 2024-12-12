@@ -1,7 +1,7 @@
 # Perfil de Usuario: usuario2
 
 ## Información del Usuario
-- **Nombre:** Ale 
+- **Nombre:** Ale Gonzales
 - **Fecha de Registro:** 4 de Abril de 2024
 - **Reseñas Escritas:** 4
 - **Libros en Total:** 6 (Leídos: 3, Leyendo: 1, Pendientes: 2)
