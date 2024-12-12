@@ -1,7 +1,7 @@
 # Perfil de Usuario: Luis ⚡🪄
 
 ## Información del Usuario
-- **Nombre:** Luis Matador
+- **Nombre:** Luis Potter  
 - **Fecha de Registro:** 12 de Diciembre de 2023  
 - **Reseñas Escritas:** 2  
 - **Libros en Total:** 5 (Leídos: 3, Leyendo: 1, Pendientes: 1)  
